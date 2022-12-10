@@ -5,6 +5,11 @@ system, suitable for playing.
 
 [Linkin](https://www.linkedin.com/in/vachirawit/) | [Blog](https://dev.to/m4r14)
 
+[<img src="https://v2.speedtyper.dev/users/M4R14/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/M4R14) 
+[<img src="https://v2.speedtyper.dev/users/M4R14/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/M4R14) 
+[<img src="https://v2.speedtyper.dev/users/M4R14/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/M4R14)
+
+
 <!--
 **M4R14/m4r14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
