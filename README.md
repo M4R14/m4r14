@@ -1,26 +1,35 @@
-### Hi there 👋
+# [ชื่อ - นามสกุล]
+### [ตำแหน่งที่สมัคร]
+📧 [อีเมล] | 📞 [เบอร์โทร]
+______________________________________________________________________________________
+### 💡 Summary
+[เขียนสั้น ๆ เกี่ยวกับตัวเอง เช่น ประสบการณ์ทำงาน, ทักษะเด่น และเป้าหมายในอาชีพ]
 
-I'm a Progammer, have a blank scribble, a high level access control
-system, suitable for playing.
+### 💼 Work Experience (ประสบการณ์ทำงาน)
 
-[Linkin](https://www.linkedin.com/in/vachirawit/) | [Blog](https://dev.to/m4r14)
+#### [ตำแหน่งงานปัจจุบัน] - [ชื่อบริษัท]
+📆 [ช่วงเวลาทำงาน]
+- [หน้าที่รับผิดชอบหลัก 1]
+- [หน้าที่รับผิดชอบหลัก 2]
+- [ผลงานที่สำคัญ เช่น เพิ่มยอดขาย, ปรับปรุงประสิทธิภาพงาน]
 
-[<img src="https://v2.speedtyper.dev/users/M4R14/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/M4R14) 
-[<img src="https://v2.speedtyper.dev/users/M4R14/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/M4R14) 
-[<img src="https://v2.speedtyper.dev/users/M4R14/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/M4R14)
+#### [ตำแหน่งงานก่อนหน้า] - [ชื่อบริษัท]
+📆 [ช่วงเวลาทำงาน]
+- [รายละเอียดงานที่ทำ]
+- [ผลงานที่โดดเด่น หรือความสำเร็จที่ได้รับ]
 
+### 🛠️ Skills (ทักษะที่มี)
 
-<!--
-**M4R14/m4r14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Hard Skills:** [เช่น การใช้โปรแกรม Microsoft Office, การบริหารจัดการ, การใช้ซอฟต์แวร์เฉพาะทาง]
+- **Soft Skills:** [เช่น การทำงานเป็นทีม, การแก้ปัญหา, การบริหารเวลา]
 
-Here are some ideas to get you started:
+### 🎓 Education (การศึกษา)
+- [ชื่อมหาวิทยาลัย / สถาบันการศึกษา] 📆 [ปีที่เข้าเรียน - ปีที่จบ] | [สาขาวิชา]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Certifications & Training (ใบรับรองและการอบรม)
+- [ชื่อใบรับรอง] – [สถาบันที่ออกให้] (ปีที่ได้รับ)
+- [หลักสูตรอบรมที่เคยเข้า] – [รายละเอียดสั้น ๆ]
+
+### 📌 Languages (ภาษา)
+- **ภาษาไทย** – ระดับ เจ้าของภาษา
+- **ภาษาอังกฤษ** – ระดับ พื้นฐาน
